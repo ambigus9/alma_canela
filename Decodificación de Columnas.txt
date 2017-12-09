@@ -1,6 +1,12 @@
 # Preguntas Clave
 
+
 ¿Cuál es el rendimiento de cada operador?
+¿Cuál es la cantidad de TICKETS que se hacen semalmente? ¿Qué día tienen mejor rendimiento?
+Predictores - ¿Cuáles van a ser las ventas mensual, trimestral de 2018?
+¿Cuál es la referencia, color, cliente y ciudad que más compró?
+Mapa de calor - La demanda de referencias a lo largo del año
+Determinar las Referencias más demandadadas por Ciudad
 
 
 
