@@ -1,0 +1,53 @@
+,MONTHFOPE,NROTICKC,RANGE
+0,02 Febrero,26,< 1 día
+1,03 Marzo,3,< 1 día
+2,04 Abril,2,< 1 día
+3,05 Mayo,13,< 1 día
+4,06 Junio,22,< 1 día
+5,07 Julio,18,< 1 día
+6,08 Agosto,18,< 1 día
+7,09 Septiembre,91,< 1 día
+8,10 Octubre,2,< 1 día
+0,02 Febrero,3,1 a 3 días
+1,03 Marzo,230,1 a 3 días
+2,04 Abril,125,1 a 3 días
+3,05 Mayo,236,1 a 3 días
+4,06 Junio,201,1 a 3 días
+5,07 Julio,150,1 a 3 días
+6,08 Agosto,68,1 a 3 días
+7,09 Septiembre,166,1 a 3 días
+8,10 Octubre,3,1 a 3 días
+0,02 Febrero,47,3 a 7 días
+1,03 Marzo,454,3 a 7 días
+2,04 Abril,454,3 a 7 días
+3,05 Mayo,219,3 a 7 días
+4,06 Junio,289,3 a 7 días
+5,07 Julio,281,3 a 7 días
+6,08 Agosto,189,3 a 7 días
+7,09 Septiembre,644,3 a 7 días
+8,10 Octubre,162,3 a 7 días
+0,02 Febrero,42,7 a 10 días
+1,03 Marzo,128,7 a 10 días
+2,04 Abril,37,7 a 10 días
+3,05 Mayo,22,7 a 10 días
+4,06 Junio,165,7 a 10 días
+5,07 Julio,26,7 a 10 días
+6,08 Agosto,84,7 a 10 días
+7,09 Septiembre,134,7 a 10 días
+8,10 Octubre,259,7 a 10 días
+0,02 Febrero,4,10 a 14 días
+1,03 Marzo,26,10 a 14 días
+2,04 Abril,67,10 a 14 días
+3,05 Mayo,4,10 a 14 días
+4,06 Junio,27,10 a 14 días
+5,07 Julio,2,10 a 14 días
+6,08 Agosto,30,10 a 14 días
+7,09 Septiembre,48,10 a 14 días
+8,10 Octubre,17,10 a 14 días
+0,03 Marzo,16,> 14 días
+1,04 Abril,18,> 14 días
+2,05 Mayo,58,> 14 días
+3,06 Junio,6,> 14 días
+4,08 Agosto,164,> 14 días
+5,09 Septiembre,10,> 14 días
+6,10 Octubre,1,> 14 días
